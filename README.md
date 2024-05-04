@@ -51,3 +51,4 @@
 - [https://www.unrealengine.com/marketplace](https://www.unrealengine.com/marketplace/en-US/store)
 - https://assetstore.unity.com/
 - https://itch.io/
+- www.gamedeveloperstudio.com - более 10000 платных ассетов в едином стиле
