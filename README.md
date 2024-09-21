@@ -9,6 +9,7 @@
 - **[FREE]** https://poly.pizza/ - 9000+ low-poly моделей
 - **[FREE/PAID]** [https://quixel.com/megascans](https://quixel.com/megascans/home) - огромная библиотека 3D моделей и текстур от разработчиков Epic Games, бесплатно для пользователей Unreal Engine, остальные могут купить любые представленные ассеты
 - **[FREE]** https://www.materialmaker.org/ - процедурный node-based генератор материалов, основанный на Godot Engine
+- **[FREE]** 3dassets.one
 
 # VFX и шейдеры
 - **[FREE]** [https://godotshaders.com](https://godotshaders.com/) - сайт с шейдерами для Godot
